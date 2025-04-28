@@ -86,10 +86,10 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-
-![FSK output](https://github.com/user-attachments/assets/9f016b5b-8951-4daf-868b-cb2bc7612470) 
+![Screenshot (125)](https://github.com/user-attachments/assets/57452356-f5c7-4c51-aab4-abf3e20d6e53)
 
 # Graph 
+![WhatsApp Image 2025-04-28 at 10 43 19 PM](https://github.com/user-attachments/assets/bca08e3f-3942-496a-929e-ce1fdd7a5b66)
 
 
 # Results
